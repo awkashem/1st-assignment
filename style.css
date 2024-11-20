@@ -1,0 +1,304 @@
+@media screen and (max-width: 992px) {
+	.header {
+		padding-bottom: 95px;
+		padding-left: 22px;
+		/* display: flex; */
+		float: left;
+		display: block;
+		color: red;
+	}
+
+	.mybutton {
+
+      margin-left: 0 px;
+
+	}
+  }
+  
+
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+	clear: both;
+}
+body {
+	background-color: #f4f4f4;
+	background-image: url("images/image1.png");
+	margin-top: 30px;
+	margin-right: 28px;
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 52%;
+	background-position-y: top;
+}
+
+
+
+.header {
+	padding-bottom: 95px;
+	padding-left: 22px;
+	display: flex;
+	float: left;
+}
+.logo {
+	width: 10%;
+	float: left;
+	font-size: 29px;
+}
+.logo h3 {
+	display: inline-block;
+	float: left;
+	padding-right: 40px;
+}
+.mybutton {
+	float: left;
+	border: 1px solid #b7abab;
+	width: 127px;
+	border-radius: 8px;
+	text-align: center;
+	padding: 7px;
+	margin-left: 103px;
+	display: flex;
+}
+.mybutton img {
+	float: left;
+	padding-right: 6px;
+}
+.mybutton h3{}
+.life {
+	float: left;
+}
+.life h2 {
+	font-size: 8vw;
+	width: 769px;
+	float: left;
+	padding-left: 155px;
+}
+.life-left {
+	padding-top: 29px;
+}
+.made-easy {
+	clear: both;
+	padding-left: 172px;
+	padding-top: 27px;
+}
+.made-easy p {
+	float: left;
+	font-size: 30px;
+	/* padding-right: 20px; */
+}
+.made-easy img{}
+
+.start-now {
+	padding: 17px;
+	font-size: 18px;
+	background: #2f2f71;
+	color: #fff;
+	border: 1px solid bule;
+	border: 1px solid #1c0c68;
+	border-radius: 15px;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-left: 170px;
+}
+
+.target {
+	margin-bottom: 100px;
+	height: 502px;
+	margin-top: 200px;
+	display: flex;
+}
+.target-left {
+	width: 50%;
+	float: left;
+}
+.target-left img {
+
+}
+.target-right {
+	width: 50%;
+	float: left;
+}
+.target-right h2 {
+	/* font-size: 8; */
+	font-size: 74px;
+	padding-top: 62px;
+	padding-bottom: 36px;
+}
+.target-right p {
+	font-size: 22px;
+	line-height: 33px;
+	color: #554343;
+	padding-bottom: 35px;
+}
+.target-right-buttom {
+	padding: 9px;
+	background: #CCE8FD;
+	border: 1px solid #CCE8FD;
+	border-radius: 17px;
+	width: 172px;
+	cursor: pointer;
+	display: flex;
+	float: left;
+}
+.target-right-buttom-last {
+	padding: 9px;
+	background: #161b57;
+	border: 1px solid #CCE8FD;
+	border-radius: 17px;
+	width: 172px;
+	cursor: pointer;
+	display: flex;
+	float: left;
+	color: #ffffff;
+}
+
+
+.button-img img{}
+.button-text{}
+
+
+.target-right-buttom img {
+	float: left;
+	padding-right: 10px;
+}
+.target-right-buttom h3 {
+	font-size: 13px;
+	color: #575454;
+}
+.target-right-buttom h4 {
+	font-size: 19px;
+}
+
+
+
+.anytime {
+	display: flex;
+	
+	background-repeat: no-repeat;
+
+}
+
+.anytime img {
+	position: absolute;
+	padding-top: 100px;
+}
+
+.anytime-left {
+	padding-right: 250px;
+
+
+}
+
+.anytime h3 {
+	font-size: 8vw;
+}
+.anytime-left h2 {
+	font-size: 8vw;
+	position: relative;
+	padding-left: 46px;
+	/* margin-left: 20px; */
+}
+.anytime-left img{}
+
+.topimage {
+	padding-left: 100px;
+	/* padding-top: -135px; */
+	margin-top: -79px;
+}
+.topimage img {
+	padding-right: 30px;
+	position: relative;
+}
+.topimage img:last-child {
+	position: absolute;
+	padding-top: 140px;
+}
+
+.anytime-right {
+	padding-right: 203px;
+	padding-top: 169px;
+}
+.anytime-right p {
+	font-size: 41px;
+	color: #99799d;
+}
+.balance{}
+.balance img {
+	/* float: left; */
+	/* display: block; */
+	/* top: 0; */
+	margin-top: -82px;
+}
+.balance h2 {
+	font-size: 27px;
+	margin-left: 108px;
+	padding-bottom: 12px;
+}
+.balance p {
+	font-size: 23px;
+	/* text-align: justify; */
+	padding-left: 110px;
+	padding-bottom: 56px;
+}
+
+.Calorie {
+	margin-top: 233px;
+	display: flex;
+}
+.calori-left {
+	float: left;
+}
+.calori-left h2 {
+	font-size: 60px;
+}
+.calori-left p {
+	font-size: 27px;
+	color: #958c8c;
+	padding-top: 47px;
+	padding-bottom: 40px;
+	width: 552px;
+
+}
+.calory-button{}
+
+
+.calori-right{}
+.calori-right img{}
+.icon {
+	margin-bottom: 100px;
+	margin-top: 100px;
+}
+.icon img {
+	display: flex;
+}
+.join {
+	display: flex;
+	margin-bottom: 134px;
+	background-color: #d4ebff;
+	border: 1px solid #d4ebff;
+	border-radius: 49px;
+}
+.join-left {
+	padding-left: 119px;
+}
+.join-left h2 {
+	font-size: 98px;
+	padding-right: 118px;
+	padding-top: 100px;
+}
+.join-button{}
+.join-right{}
+.join-right img {
+	padding-right: 35px;
+	/* padding-bottom: -9px; */
+}
+.footer {
+	display: flex;
+	padding-bottom: 52px;
+	color: #777171;
+}
+.footer h2{}
+
